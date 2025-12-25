@@ -1,0 +1,26 @@
+{
+  "name": "linmath.c",
+  "version": "1.2022.6",
+  "description": "A lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions; Wolfgang Draxinger (2013).",
+  "keywords": [
+    "c",
+    "library",
+    "math",
+    "linear algebra",
+    "graphics"
+  ],
+  "homepage": "https://github.com/nodef/linmath.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/linmath.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/linmath.c.git"
+  },
+  "license": "WTFPL",
+  "author": "wolfram77@gmail.com",
+  "main": "linmath.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
