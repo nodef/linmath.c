@@ -1,6 +1,6 @@
 {
   "name": "linmath.c",
-  "version": "1.2022.6",
+  "version": "1.2022.7",
   "description": "A lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions; Wolfgang Draxinger (2013).",
   "keywords": [
     "c",
